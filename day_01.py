@@ -1,1 +1,1 @@
-print("Assalamu Alaikum")
+#print("Assalamu Alaikum")
